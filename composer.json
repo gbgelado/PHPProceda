@@ -1,25 +1,29 @@
 {
-    "name": "luk/phpproceda",
-    "description": "Ferramenta para Parse de NotFis e Ocorren padrao Proceda 3.1",
+    "name": "gbgelado/PHPProceda",
+    "description": "Ferramenta para Parse de NotFis e Ocorren padrao Proceda 3.1 - forked from https://github.com/MarceloLuk/PHPProceda",
     "keywords": ["EDI", "PROCEDA", "NotFis", "message", "container"],
-    "homepage": "https://github.com/php-edifact/edifact",
+    "homepage": "https://github.com/gbgelado/PHPProceda",
     "license": "LGPL-3.0+",
+    "version": "0.1",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Marcelo luk",
             "email": "marceloluk.gomes@gmail.com",
             "homepage": "http://github.com/marceloluk",
             "role": "Developer"
+        },
+        {
+            "name": "Gabriel Geldo",
+            "email": "gelado@outlook.com.com",
+            "homepage": "http://github.com/gbgelado",
+            "role": "Developer"
         }
     ],
     "support": {
-        "issues": "https://github.com/MarceloLuk/PHPProceda/issues"
+        "issues": "https://github.com/gbgelado/PHPProceda/issues"
     },
     "repositories": [
-        {
-            "type": "vcs",
-            "url":  "https://github.com/MarceloLuk/PHPProceda"
-        }
     ],
     "require-dev": {
 
