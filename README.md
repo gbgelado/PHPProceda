@@ -1,4 +1,4 @@
-# PHPProceda
+# php-proceda
 Ferramenta para parse de informações de EDI Proceda | NOTFIS OCOREN em php
 
 Esta ferramenta tem por intuido facilitar o parse de informações de arquivos de notas fiscais de transporrtadoras
