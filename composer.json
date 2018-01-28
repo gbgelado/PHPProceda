@@ -1,8 +1,8 @@
 {
-    "name": "gbgelado/PHPProceda",
+    "name": "gbgelado/php-proceda",
     "description": "Ferramenta para Parse de NotFis e Ocorren padrao Proceda 3.1 - forked from https://github.com/MarceloLuk/PHPProceda",
     "keywords": ["EDI", "PROCEDA", "NotFis", "message", "container"],
-    "homepage": "https://github.com/gbgelado/PHPProceda",
+    "homepage": "https://github.com/gbgelado/php-proceda",
     "type": "project",
     "license": "MIT",
     "version": "0.1",
@@ -22,7 +22,7 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/gbgelado/PHPProceda/issues"
+        "issues": "https://github.com/gbgelado/php-proceda/issues"
     },
     "repositories": [
     ],
