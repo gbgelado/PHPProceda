@@ -5,8 +5,9 @@
     "homepage": "https://github.com/gbgelado/php-proceda",
     "type": "project",
     "license": "MIT",
-    "version": "0.1",
+    "version": "0.1.1",
     "minimum-stability": "stable",
+
     "authors": [
         {
             "name": "Marcelo luk",
@@ -27,7 +28,6 @@
     "repositories": [
     ],
     "require-dev": {
-
     },
     "autoload": {
         "psr-4": {
